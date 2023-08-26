@@ -1,4 +1,4 @@
-# sl_decisiontree
+# sl_decesiontree
 # **Name**:Srinivas
 # **Roll No**:20X01A6703
 # **Branch**:lV year cse(data science)
